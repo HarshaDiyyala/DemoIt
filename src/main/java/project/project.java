@@ -1,8 +1,6 @@
-
 package project;
 
 import jakarta.persistence.*;
-
 @Entity
 @Table(name = "ITStudent_details")
 public class project {
